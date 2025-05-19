@@ -25,15 +25,15 @@
 
 ## 🔗 Portfolio complet (PDF)
 
-📄 [Clique ici pour consulter le PDF complet](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/Portfolio.pdf)
+📄 [Clique ici pour consulter le PDF complet](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/Portfolio_ArnaudVJ-D.pdf)
 
 ---
 
 ## 📎 Liens utiles
 
-- 📄 [CV (PDF)](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/CV_Arnaud_Valente.pdf)
+- 📄 [CV (PDF)](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/CV_ArnaudVJ-D.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arnaud-v-026612100)
-- 📧 [arnaud_jacot@hotmail.com](mailto:arnaud_jacot@hotmail.com)
+- 📧 [arnaud.valentejacot-descombes@epfl.ch](mailto:arnaud.valentejacot-descombes@epfl.ch)
 - 🌐 [GitHub](https://github.com/Arnvalen)
 
 ---
