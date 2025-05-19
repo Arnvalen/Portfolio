@@ -38,7 +38,7 @@
 > Développement d’un solveur éléments finis maison en MATLAB pour une plaque trouée chauffée.  
 > Maillage adaptatif Q9 généré en coordonnées polaires, calculs vectorisés et parallélisation `parfor`.  
 > Résolution avec solveur creux multithread, interpolation biquadratique locale.  
-> → Simulation de plus d’un million de degrés de liberté sur un laptop.
+> → Simulation de plusieurs dizaines de milliers de degrés de liberté sur un laptop.
 
 ### 🍷 Générateur automatisé de carte des vins
 > Pipeline Python → LaTeX transformant un simple fichier Excel d’inventaire en une carte des vins élégante.  
