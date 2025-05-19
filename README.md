@@ -7,8 +7,8 @@
 
 ## 🔗 Portfolio complet (PDF) ainsi que mon CV :
 
-📄 [Clique ici pour consulter le PDF complet](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/Portfolio_ArnaudVJ-D.pdf)
-📄 [Clique ici pour consulter mon CV](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/CV_ArnaudVJ-D.pdf)
+📄 [Cliquez ici pour consulter le PDF complet](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/Portfolio_ArnaudVJ-D.pdf)
+📄 [Cliquez ici pour consulter mon CV](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/CV_ArnaudVJ-D.pdf)
 
 ---
 
