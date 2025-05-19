@@ -5,6 +5,12 @@
 
 ---
 
+## 🔗 Portfolio complet (PDF)
+
+📄 [Clique ici pour consulter le PDF complet](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/Portfolio_ArnaudVJ-D.pdf)
+
+---
+
 ## 📁 Aperçu des projets
 
 🧠 Chaque projet est brièvement résumé ici, avec plus de détails disponibles dans le fichier PDF ou dans les dossiers associés.
@@ -20,12 +26,6 @@
 
 ### 🍷 Générateur de carte des vins
 > Script Python automatisé pour transformer un fichier Excel d’inventaire en un PDF stylisé (via LaTeX + TikZ + pgfornament).
-
----
-
-## 🔗 Portfolio complet (PDF)
-
-📄 [Clique ici pour consulter le PDF complet](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/Portfolio_ArnaudVJ-D.pdf)
 
 ---
 
