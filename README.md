@@ -27,7 +27,7 @@
 > Conception d’un système sans contact pour mesurer la flèche d’une poutre.  
 > Utilisation d’un laser monté sur un moteur pas-à-pas (2048 pas/tour) et détection via LDR.  
 > Interface Python interactive + traitement MATLAB par régression gaussienne inversée.  
-> → Résolution sub-millimétrique validée.
+> → Résolution millimétrique validée.
 
 ### 🤖 Gripper robotique biomimétique (inspiré d’un diaphragme photographique)
 > Mécanisme radial imprimé en 3D, basé sur une came spiralée paramétrique, capable de saisir des fruits mous (framboises).  
