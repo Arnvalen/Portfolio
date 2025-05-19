@@ -32,6 +32,7 @@
 
 ## 📎 Liens utiles
 
+- 📄 [Portfolio (PDF)](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/Portfolio_ArnaudVJ-D.pdf)
 - 📄 [CV (PDF)](https://raw.githubusercontent.com/Arnvalen/Portfolio/main/CV_ArnaudVJ-D.pdf)
 - 🔗 [LinkedIn](https://www.linkedin.com/in/arnaud-v-026612100)
 - 📧 [arnaud.valentejacot-descombes@epfl.ch](mailto:arnaud.valentejacot-descombes@epfl.ch)
