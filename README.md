@@ -34,7 +34,7 @@
 > Intégration de capteurs de pression et conductivité, contrôlés via Arduino.  
 > → Récolte douce automatisée avec cycle complet.
 >
-> ![Demo du projet](Assets/Gripper.gif)
+> ![Démonstration du Gripper](Assets/Gripper.gif)
 
 ### 🌡️ Solveur thermique FEM
 > Développement d’un solveur éléments finis maison en MATLAB pour une plaque trouée chauffée.  
