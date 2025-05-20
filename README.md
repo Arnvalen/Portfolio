@@ -33,6 +33,8 @@
 > Mécanisme radial imprimé en 3D, basé sur une came spiralée paramétrique, capable de saisir des fruits mous (framboises).  
 > Intégration de capteurs de pression et conductivité, contrôlés via Arduino.  
 > → Récolte douce automatisée avec cycle complet.
+>
+> ![Demo du projet](Assets/Gripper.gif)
 
 ### 🌡️ Solveur thermique FEM
 > Développement d’un solveur éléments finis maison en MATLAB pour une plaque trouée chauffée.  
